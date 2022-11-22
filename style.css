@@ -1,0 +1,41 @@
+body {
+    background-image: url(imageedit_14_9661879110.PNG);
+    background-size: cover;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 29px;
+    margin-bottom: 29px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+button {
+    border: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    
+    font-size: xx-large;
+    font-family: cursive;
+    border-radius: 25px;
+}
+
+#incremnet-btn {
+	background-color: darkred;
+	width: 330px;
+}
+
+#save-btn {
+	background-color: green;
+	width: 330px;
+}
